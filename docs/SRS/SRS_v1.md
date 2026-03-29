@@ -19,3 +19,7 @@ Sistema disponible 99% del tiempo academico.
 
 ## RNF-002: Seguridad
 Contrasenas con bcrypt. Sesiones expiran a las 8 horas.
+
+
+## REQ-007: Notificaciones (POST-BASELINE)
+El sistema debe enviar notificaciones por correo cuando se registren nuevas calificaciones.
