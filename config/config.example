@@ -1,0 +1,7 @@
+APP_NAME=SistemaAcademico
+APP_ENV=production
+DB_HOST=127.0.0.1
+DB_DATABASE=academia_db
+DB_USERNAME=usuario
+DB_PASSWORD=password
+SESSION_LIFETIME=480
